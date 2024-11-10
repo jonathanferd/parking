@@ -1,0 +1,15 @@
+C:\Users\jferd\source\repos\parkir\bin\Debug\parkir.exe.config
+C:\Users\jferd\source\repos\parkir\bin\Debug\parkir.exe
+C:\Users\jferd\source\repos\parkir\bin\Debug\parkir.pdb
+C:\Users\jferd\source\repos\parkir\bin\Debug\parkir.xml
+C:\Users\jferd\source\repos\parkir\obj\Debug\parkir.vbproj.AssemblyReference.cache
+C:\Users\jferd\source\repos\parkir\obj\Debug\parkir.Form1.resources
+C:\Users\jferd\source\repos\parkir\obj\Debug\parkir.Resources.resources
+C:\Users\jferd\source\repos\parkir\obj\Debug\parkir.vbproj.GenerateResource.cache
+C:\Users\jferd\source\repos\parkir\obj\Debug\parkir.vbproj.CoreCompileInputs.cache
+C:\Users\jferd\source\repos\parkir\obj\Debug\parkir.exe
+C:\Users\jferd\source\repos\parkir\obj\Debug\parkir.xml
+C:\Users\jferd\source\repos\parkir\obj\Debug\parkir.pdb
+C:\Users\jferd\source\repos\parkir\obj\Debug\parkir.Form2.resources
+C:\Users\jferd\source\repos\parkir\obj\Debug\parkir.Form3.resources
+C:\Users\jferd\source\repos\parkir\obj\Debug\parkir.Form4.resources
